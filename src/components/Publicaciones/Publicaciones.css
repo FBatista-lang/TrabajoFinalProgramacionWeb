@@ -1,0 +1,8 @@
+.containerpost{
+    width: 1000px;
+    padding: 20px;
+    background: #fff;
+    color: rgb(100, 73, 73);
+    margin: auto;
+    border-radius: 4px;
+}
